@@ -1,0 +1,3 @@
+_tmp_*.tsv
+_fix_encoding.ps1
+*.bak
