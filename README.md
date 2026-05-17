@@ -60,7 +60,7 @@ Get-ChildItem data_*.sql | ForEach-Object {
 
 - TAIFEX 盤後逐筆 CSV（2001 起）
 - XQ Log（部分歷史回填）
-- 凱基證券 KGI QuoteCom 即時收集（2024 起）
+- 期交所即時收集（2026/04起）
 
 ## 授權與免責
 
